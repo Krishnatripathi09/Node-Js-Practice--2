@@ -1,24 +1,15 @@
 {
   "name": "nest-js-learning-from-basics",
   "version": "1.0.0",
-  "description": "Nest-js learnings From Basics",
-  "main": "index.js",
+  "description": "Nest Js Learning From Basics",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Krishnatripathi09/Nest-Js-Learnings-Repository.git"
+    "url": "github.com/Krishnatripathi09/Nest-Js-Learnings-Repository.git"
   },
-  "keywords": [
-    "Nest-Js",
-    "From",
-    "Beginning"
-  ],
-  "author": "Krishna T",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Krishnatripathi09/Nest-Js-Learnings-Repository/issues"
-  },
-  "homepage": "https://github.com/Krishnatripathi09/Nest-Js-Learnings-Repository#readme"
+  "author": "",
+  "license": "ISC"
 }
